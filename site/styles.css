@@ -1,0 +1,843 @@
+
+
+img.logo_1 {
+    position: absolute;
+    top: -22px;
+    left: -180px;
+    bottom: 5px;
+}
+
+
+
+#login_button {
+    color:black;
+    text-decoration: none; 
+    border: 1px solid green;
+    padding: 8px 25px 8px 25px;
+    border-radius: 3px;
+    top: 23px;
+    left: 1770px;
+    position: absolute;
+}
+
+#login_button:hover {
+    color: green;
+    transition: 1s;
+}
+
+
+.search_0 {
+    position: absolute;   
+    top: 30px;
+    left: 1470px;
+
+}
+
+
+.place_for_search {
+    position: absolute;
+    outline: none;
+    border: 1px solid black;
+    opacity: .2;
+    border-radius: 6px;
+
+}
+
+
+
+
+.button_for_search {
+    position: absolute;
+    left: 180px;
+    top: 1px;
+    border-radius: 3px;
+    width: 15px;
+}
+
+
+.line_0 {
+    position: absolute;
+    border-left: 6px solid black;
+    height: 40px;
+    box-sizing: border-box;
+    border-width: 1px; 
+    opacity: .2;
+    top: 15px;
+    width: auto;
+    float: right;
+    left:1710px;
+    top: 20px;
+}
+
+
+.recipes {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    box-sizing: border-box;
+    left: 200px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2ch;
+    color:black;
+    text-decoration: none; 
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: bold; 
+}
+
+
+.author {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    top: 30px;
+    box-sizing: border-box;
+    left: 350px;
+    color:black;
+    text-decoration: none; 
+    position: absolute;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 2ch;
+}
+
+
+* {
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+
+.header_1 {
+    background-color: white;
+    display: flex;
+    width:  7680px;
+    height: 80px;
+    box-shadow: 0 0 1px;
+}
+
+
+body {
+    margin: 0px;
+}
+
+
+.block_0 {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 510px;
+    width: 900px;
+    height: 1100px;
+    background-color: white;
+}
+
+
+.h_o_b_recipes {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 5ch;
+}
+
+
+.block_1 {
+    position: absolute;
+    display: flex;
+    height: 230px;
+    width: 530px;
+    left: 100px;
+    top: 150px;
+    background-color: white;   
+}
+
+
+#brownie {
+    position: absolute;
+    width: 250px;
+    height: 170px;
+    top: 20px;
+    left: -30px;
+}
+
+
+.brownie_text_0 {
+    font-size: 10px; 
+    position: absolute;
+    left: 240px;
+    top: 23px;
+    color: green;
+    font-weight: bold;   
+}
+
+
+.brownie_text_1 {
+    position: absolute;
+    font-weight: bold;
+    top: 50px;
+    left: 240px;
+    font-size: 35px;
+    text-decoration: none;
+    color:black;
+}
+
+
+.brownie_text_2 {
+    position: absolute;
+    top: 110px;
+    left: 240px;
+    font-size: small;
+}
+
+
+.line_1 {
+    position: absolute;
+    border-left: 6px solid black;
+    height: 20px;
+    box-sizing: border-box;
+    border-width: 1px; 
+    opacity: .2;
+    width: auto;
+    float: right;
+    left:350px;
+    top: 108px;    
+}
+
+
+.brownie_text_3 {
+    position: absolute;
+    top: 110px;
+    left: 370px;
+    font-size: small;
+}
+
+
+.brownie_text_4 {
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    font-size: small;    
+}
+
+
+.block_2 {
+    position: absolute;
+    display: flex;
+    height: 230px;
+    width: 530px;
+    left: 100px;
+    top: 430px;
+    background-color: white;   
+}
+
+
+#sirniki {
+    position: absolute;
+    width: 250px;
+    height: 170px;
+    top: 20px;
+    left: -30px;
+}
+
+
+.sirniki_text_0 {
+    font-size: 10px; 
+    position: absolute;
+    left: 240px;
+    top: 23px;
+    color: green;
+    font-weight: bold;   
+}
+
+
+.sirniki_text_1 {
+    position: absolute;
+    font-weight: bold;
+    top: 50px;
+    left: 240px;
+    font-size: 35px;
+    text-decoration: none;
+    color:black;
+}
+
+
+.sirniki_text_2 {
+    position: absolute;
+    top: 110px;
+    left: 240px;
+    font-size: small;
+}
+
+
+.line_2 {
+    position: absolute;
+    border-left: 6px solid black;
+    height: 20px;
+    box-sizing: border-box;
+    border-width: 1px; 
+    opacity: .2;
+    width: auto;
+    float: right;
+    left:350px;
+    top: 108px;    
+}
+
+
+.sirniki_text_3 {
+    position: absolute;
+    top: 110px;
+    left: 370px;
+    font-size: small;
+}
+
+
+.sirniki_text_4 {
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    font-size: small;    
+}
+
+
+.block_3 {
+    position: absolute;
+    display: flex;
+    height: 230px;
+    width: 530px;
+    left: 100px;
+    top: 710px;
+    background-color: white;   
+}
+
+
+#spagetti {
+    position: absolute;
+    width: 250px;
+    height: 170px;
+    top: 20px;
+    left: -30px;
+}
+
+
+.spagetti_text_0 {
+    font-size: 10px; 
+    position: absolute;
+    left: 240px;
+    top: 23px;
+    color: green;
+    font-weight: bold;   
+}
+
+
+.spagetti_text_1 {
+    position: absolute;
+    font-weight: bold;
+    top: 50px;
+    left: 240px;
+    font-size: 35px;
+    text-decoration: none;
+    color:black;
+    width: 70%;
+}
+
+
+.spagetti_text_2 {
+    position: absolute;
+    top: 150px;
+    left: 240px;
+    font-size: small;
+}
+
+
+.line_3 {
+    position: absolute;
+    border-left: 6px solid black;
+    height: 20px;
+    box-sizing: border-box;
+    border-width: 1px; 
+    opacity: .2;
+    width: auto;
+    float: right;
+    left:350px;
+    top: 150px;    
+}
+
+
+.spagetti_text_3 {
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    font-size: small;
+}
+
+
+.spagetti_text_4 {
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    font-size: small;    
+}
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    top: 1200px;
+    margin-left: 510px;
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    border-top: 0.5px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-color: LightGrey;
+    border-style: solid;
+}
+
+
+#footer_photo {
+    position: absolute;
+    left: 418px;
+    top: 10px;
+}
+
+
+.text_footer {
+    position: absolute;
+    margin-left: 379px;
+    margin-top: 75px;
+    font-size:170%
+}
+
+
+.block_0_for_login {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 510px;
+    width: 900px;
+    height: 600px;
+    background-color: white;
+}
+
+
+#text_of_login {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 5ch;
+    margin-top: 70px;
+}
+
+
+.place_for_login_1 {
+    position: absolute;
+    outline: none;
+    border: 1px solid black;
+    opacity: .3;
+    margin-left: 250px;
+    margin-top: 50px;
+    height: 50px;
+    width: 400px;
+}
+
+
+.place_for_login_2 {
+    position: absolute;
+    outline: none;
+    border: 1px solid black;
+    opacity: .3;
+    margin-left: 250px;
+    margin-top: 120px;
+    height: 50px;
+    width: 400px;
+}
+
+
+.checkbox_for_login {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 320px;
+    left: 246px;
+    opacity: .3;
+}
+
+
+#text_for_checkbox {
+    position: absolute; 
+    left: 280px;
+    top: 323px;
+}
+
+
+#login_button_form {
+    border: 0;
+    background-color: MediumSeaGreen; 
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    font-size: 25px;
+    margin-left: 250px;
+    margin-top: 255px;
+}
+
+
+#no_account_text {
+    position: absolute;
+    top: 460px;
+    left: 250px;
+}
+
+
+#no_account_text_1 {
+    position: absolute;
+    top: 460px;
+    left: 353px;
+    color: green;
+    text-decoration: none;
+}
+
+
+.h_o_b_recipes_brownie {
+    display: flex;
+    justify-content: center;
+    font-size: 5ch;
+    font-weight: 900;
+    margin-top: 120px;
+}
+
+
+.list_of_nav_brownie {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    grid-gap: 7px;
+    color: green;
+    margin-top: -140px; 
+    font-size: 15px;
+}
+
+
+#sirniki_spagetti_a_1 {
+    text-decoration: none;
+    color: green;
+}
+
+
+.photos_of_brownie {
+        position: absolute;
+        display: flex;
+        justify-content:center;
+        height: 450px;
+        width: 700px;
+        left: 100px;
+        top: 250px;
+        background-color: white;   
+}
+
+
+#text_brownie1 {
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+    top: 780px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;
+}
+
+
+#text_brownie2 {
+    margin-left: 50px;
+    position: absolute;
+    top: 1000px;
+    font-size: large;
+    font-weight: 900;
+    color:green;
+}
+
+
+#text_brownie3 {
+    position: absolute;
+    top: 1100px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 500px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;
+}
+
+
+.footer_brownie {
+    position: absolute;
+    bottom: 0;
+    top: 4400px;
+    margin-left: 510px;
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    border-top: 0.5px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+
+#footer_photo_brownie {
+    position: absolute;
+    left: 418px;
+    top: 10px;
+}
+
+
+.text_footer_brownie {
+    position: absolute;
+    margin-left: 379px;
+    margin-top: 90px;
+    font-size:170%
+}
+
+
+.block_0_brownie {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 510px;
+    width: 900px;
+    height: 4400px;
+    background-color: white;
+}
+
+
+#photo_brownie_1 {
+    width: 400px;
+    height: 300px;
+    margin-top: 950px;
+    margin-left: 50px;
+}
+
+
+#text_brownie4 {
+    position: absolute;
+    top: 1495px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;        
+}
+
+
+#photo_brownie_2 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;    
+}
+
+
+#text_brownie5 {
+    position: absolute;
+    top: 1890px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;        
+}
+
+
+#photo_brownie_3 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;     
+}
+
+
+#text_brownie6 {
+    position: absolute;
+    top: 2285px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;   
+}
+
+
+#photo_brownie_4 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;      
+}
+
+
+#text_brownie7 {
+    position: absolute;
+    top: 2680px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;    
+}
+
+
+#photo_brownie_5 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;     
+}
+
+
+#text_brownie8 {
+    position: absolute;
+    top: 3075px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;      
+}
+
+
+#photo_brownie_6 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;     
+}
+
+
+#text_brownie9 {
+    position: absolute;
+    top: 3470px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;       
+}
+
+
+#photo_brownie_7 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;     
+}
+
+
+#text_brownie10 {
+    position: absolute;
+    top: 3865px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    position: absolute;
+    line-height: 30px;
+    font-weight: 800;        
+}
+
+
+#photo_brownie_8 {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;  
+}
+
+
+.block_0_sirniki {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 510px;
+    width: 900px;
+    height: 3700px;
+    background-color: white;
+}
+
+
+.footer_sirniki {
+    position: absolute;
+    bottom: 0;
+    top: 3700px;
+    margin-left: 510px;
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    border-top: 0.5px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+
+#text_spagetti2 {
+    margin-left: 50px;
+    position: absolute;
+    top: 1030px;
+    font-size: large;
+    font-weight: 900;
+    color:green;
+}
+
+
+.block_0_spagetti {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 510px;
+    width: 900px;
+    height: 2950px;
+    background-color: white;
+}
+
+
+.footer_spagetti {
+    position: absolute;
+    bottom: 0;
+    top: 2950px;
+    margin-left: 510px;
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    border-top: 0.5px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+
+.place_for_login_3 {
+    position: absolute;
+    outline: none;
+    border: 1px solid black;
+    opacity: .3;
+    margin-left: 250px;
+    margin-top: 190px;
+    height: 50px;
+    width: 400px;
+}
+
+
+#login_button_form_1 {
+    border: 0;
+    background-color: MediumSeaGreen; 
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    font-size: 25px;
+    margin-left: 250px;
+    margin-top: 300px;
+}
